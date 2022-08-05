@@ -1,24 +1,16 @@
 <h1 align="center">Doubly LinkedList Implementation</h1>
 
 ### Description
-My own `C++ Implementation` of Doubly LinkedList using `Microsoft Visual Studio` 
+My own `C++ Implementation` of Doubly LinkedList using `Microsoft Visual Studio`. The code is based on an example of Employee class but you can modify it as per your requirement.
 
 ### Functions
-- insert()
-- insertAt()
-- Remove()
-- removeAt()
-- replace()
-- replaceAt()
-- clear()
+- getSize()
 - getHead()
+- Insert()
+- remove()
+- updateSalary()
+- updateBonus()
+- clear()
 - isEmpty()
-- gotoNext()
-- gotoPrior()
-- getCursor()
-- moveCursor()
-- moveCursortoEnd()
 - Display()
 - sort()
-- duplicate()
-- splitList()
